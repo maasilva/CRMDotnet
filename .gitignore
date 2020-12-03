@@ -2,3 +2,6 @@
 /obj*
 obj*
 bin*
+CRMDotnet.db-shm
+CRMDotnet.db-wal
+CRMDotnet.db
