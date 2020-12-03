@@ -1,8 +1,13 @@
-/bin/*
-/obj/*
-obj/*
-bin/*
-CRMDotnet.db-shm
-CRMDotnet.db-wal
+**/bin
+**/obj
+CRMDotnet/bin
+CRMDotnet/obj/Debug
 CRMDotnet.db
 
+bin/Debug/net5.0/CRMDotnet.Views.dll
+bin/Debug/net5.0/CRMDotnet.Views.pdb
+obj/Debug/net5.0/CRMDotnet.assets.cache
+obj/Debug/net5.0/CRMDotnet.csprojAssemblyReference.cache
+obj/Debug/net5.0/CRMDotnet.Views.pdb
+obj/Debug/net5.0/CRMDotnet.Views.dll
+obj/Debug/net5.0/Razor/Views/Cliente/Index.cshtml.g.cs
