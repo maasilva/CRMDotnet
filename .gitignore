@@ -12,3 +12,9 @@ obj/Debug/net5.0/CRMDotnet.Views.pdb
 obj/Debug/net5.0/CRMDotnet.Views.dll
 obj/Debug/net5.0/Razor/Views/Cliente/Index.cshtml.g.cs
 *.cache
+*.dll
+*.pdb
+*.dll
+*.db
+*.cache
+*.cache

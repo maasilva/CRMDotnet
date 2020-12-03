@@ -28,9 +28,10 @@ namespace CRMDotnet.Models
         [Required]
         public string Email { get; set; }
 
+        [RegularExpression(@"^\([1-9]{2}\) (?:[2-8]|9[1-9])[0-9]{3}\-[0-9]{4}$")]
         [Display(Name = "Telefone")]
         [DataType(DataType.PhoneNumber)]
-         [Required]
+        [Required]
         public string Phone { get; set; }
 
     }
