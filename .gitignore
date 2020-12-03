@@ -1,7 +1,8 @@
-/bin*
-/obj*
-obj*
-bin*
+/bin/*
+/obj/*
+obj/*
+bin/*
 CRMDotnet.db-shm
 CRMDotnet.db-wal
 CRMDotnet.db
+
